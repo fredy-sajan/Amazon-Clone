@@ -12,6 +12,9 @@ module.exports = {
           light: "#232F3E",
           DEFAULT: "#131921",
         },
+        amazon_home_background_color: {
+          dark_white: "#E3E6E6",
+        },
       },
     },
   },
